@@ -5,6 +5,8 @@
 
 此项目的前端是用vue写的，需要安装PDF.js
 
+<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+
 命令： npm install pdf.js --save
 
 所有的代码已上传，引用的时候，只需要传递pdfUrl即可。
